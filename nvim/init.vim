@@ -33,5 +33,4 @@ set clipboard=unnamedplus
 
 set backspace=indent,eol,start
 
-
 set autoread
