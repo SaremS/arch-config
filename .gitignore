@@ -1,14 +1,14 @@
 *
 
 !.gitignore
-!foot/
-!gtk-3.0/
-!gtk-4.0/
-!hypr/
-!kitty/
-!nnn/
-!nvim/
-!wal/
-!waybar/
+!foot/*
+!gtk-3.0/*
+!gtk-4.0/*
+!hypr/*
+!kitty/*
+!nnn/*
+!nvim/*
+!wal/*
+!waybar/*
 !dolphinrc
 !trashrc
